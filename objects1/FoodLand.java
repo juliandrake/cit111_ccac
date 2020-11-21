@@ -17,6 +17,7 @@ package objects1;
 
 /**
  * Simulates various foods using object-oriented programming
+ * The protein values for the various foods were from USDA and carbmanager.com
  * @author julian
  */
 public class FoodLand {
